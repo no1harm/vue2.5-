@@ -3,3 +3,5 @@
 
 **项目环境配置**
 `node v10.1.0` + `npm 5.5.0` + `vue-cli 2.9.6`
+
+`main.js`中引入`import './assets/styles/reset.css'`重置样式  `import './assets/styles/border.css'`解决移动端像素边框问题
