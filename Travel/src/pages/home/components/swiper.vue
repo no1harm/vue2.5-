@@ -23,11 +23,11 @@ export default {
       swiperList: [
         {
           id: '0001',
-          imgUrl: 'https://img1.qunarzz.com/vc/29/31/b4/20fb7d1ad6e24362882319cbfb.jpg_750x388x92.jpg'
+          imgUrl: 'https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/dujia_shuqi_banner_20180710.jpg'
         },
         {
           id: '0002',
-          imgUrl: 'https://img1.qunarzz.com/vc/31/cc/75/3c014d49de263aea6bf9bffeda.png'
+          imgUrl: 'https://source.qunarzz.com/site/images/wap/home/recommend/iphoneplus/dujia_shuqi_banner_20180710.jpg'
         }
       ]
     }

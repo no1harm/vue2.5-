@@ -15,7 +15,7 @@
 - 使用`iconfont`
 `iconfont`创建项目 -> 收集图标 -> 打包下载 -> 复制到项目相关文件夹 -> 修改`iconfont.css`中文件路径 -> 项目`main.js`引用 -> 复制图标代码 -> `<span class="iconfont">&#xe624;</span>` -> 引用成功
 
-- 使用`git branch`分支开发功能
+- 使用`git branch`分支开发新功能
 
 - 使用`awesome swiper`创建轮播图
 [github](https://github.com/surmon-china/vue-awesome-swiper) -> `awsom swiper` -> `npm install vue-awesome-swiper --save`
